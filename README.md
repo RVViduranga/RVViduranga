@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm W.H. Rukshan Viduranga</h1>
+<h1 align="center">Hi 👋, I'm Rukshan Viduranga</h1>
 <h3 align="center">A passionate Electrical and Electronic Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvviduranga&label=Profile%20views&color=0e75b6&style=flat" alt="rvviduranga" /> </p>
