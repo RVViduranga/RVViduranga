@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvviduranga&label=Profile%20views&color=0e75b6&style=flat" alt="rvviduranga" /> </p>
 
-- 🔭 I’m currently working on [Improving Vehicle Number Plate Visibility via Low-Resolution Video Enhancement](https://sites.google.com/eng.pdn.ac.lk/ee406-project/home)
+- 🔭 I’m currently working on MERN Stack Chat App With Socket.io
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Laraval**
 
 - 📫 How to reach me **rukshanviduranga1998@gmail.com**
 
